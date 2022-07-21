@@ -1,1 +1,10 @@
-styles here
+body{
+    background-image: url(assets/images/machu-picchu-hike-1.jpg);
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+h1, p{
+    text-align: center;
+}
